@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 I'm a final-year CSE student at Andhra University (8.5 GPA) who builds full-stack web applications that go beyond the tutorial. My focus is on writing clean, scalable MERN code — the kind that handles real users, survives production, and doesn't fall apart at 200 records.<br><br>My internship at RINL Steel Plant wasn't a shadow role — I led frontend, integrated REST APIs, built secure document upload, implemented role-based access control, and shipped an automated ID card generation UI that cut processing time by 40%. The site manager confirmed the 60% drop in data entry errors. That's the bar I hold myself to.<br><br>Outside work, I co-lead GDG Andhra University's web dev community — running project-based workshops for 200+ students and organizing a hackathon with 500+ participants. Teaching forces clarity. If I can't explain it, I don't know it well enough.<br><br>I'm actively solving DSA problems on GeeksforGeeks (70+ and counting), validating every API with Postman before it ships, and pushing toward a SWE role where I can work on systems that matter. I don't want to simulate production — I want to be in it.
 
 
-## 🌐 Socials:
+##  Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tammannagari Sriram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tsriram807@gmail.com) 
 
 #  Tech Stack:
